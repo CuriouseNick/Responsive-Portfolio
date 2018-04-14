@@ -1,0 +1,180 @@
+
+@media only screen and (max-width: 980px){}
+
+#top_container {
+    position: relative;
+    margin: auto; 
+    width: 1300px;
+}
+
+#top_left_block {
+    position: relative; 
+    background-color: #ffffff;
+    width: 20%;
+    height: 55px;
+    float: left;
+}
+
+#name {
+    position: relative; 
+    background-color: #4aaaa5;
+    width: 15%;
+    height: 25px;
+    font-size: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    float: left;
+}
+
+#links_right_block {
+    position: relative; 
+    background-color: #ffffff;
+    width: 65%;
+    height: 55px;
+    float: left;
+}
+
+#about {
+    float: left;
+    margin-left: 555px;
+    padding: 18px 0;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#portfolio {
+    float: left;
+    margin-left: 15px;
+    padding: 18px 0;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#contact {
+    float: left;
+    margin-left: 15px;
+    padding: 18px 0;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#decor_line_top {
+    position: absolute;
+    top: 55px;
+    background-color: #cccccc;
+    width: 100%;
+    height: 2px;
+}
+
+#main_block {
+    position: absolute;
+    top: 57px;
+    width: 100%;
+    height: 500px;
+    background-image: url("../images/bckg_img.png");
+}
+
+#decor_line_bottom {
+    position: absolute;
+    top: 555px;
+    background-color: #4aaaa5;
+    width: 100%;
+    height: 4px;
+}
+
+#footer {
+    position: absolute;
+    top: 559px;
+    background-color: #666666;
+    width: 100%;
+    height: 8px;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 18px 0;
+}
+
+#about_block {
+    margin-left: 270px;
+    top: 25px;
+    position: relative; 
+    background-color: #ffffff;
+    width: 960px;
+    height: 400px;
+    color: #777777;
+}
+
+#about_text {
+    color: #4aaaa5;
+    font-size: 20px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    padding: 20px 15px;
+}
+
+#main_block_line {
+    position: absolute;
+    top: 55px;
+    background-color: #cccccc;
+    margin-left: 15px;
+    width: 930px;
+    height: 2px;
+}
+
+#img_text {
+    margin-left: 15px;
+    color: #777777;
+    float: left;
+}
+
+#lorem_text {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 160px;
+    margin-right: 10px;
+}
+
+#lorem_text2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+#lorem_text3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+#input_forms {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#img_pp1{
+    float: left;
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
+#img_pp3{
+    float: left;
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
